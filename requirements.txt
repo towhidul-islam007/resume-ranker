@@ -1,0 +1,7 @@
+# requirements applicable only to the repository.
+mypy==1.15.0
+ruff==0.9.7
+
+# requirements for the repository and the package.
+twine==6.1.0
+toml==0.10.2
